@@ -6,6 +6,7 @@
             System.out.println("i");
             System.out.println("commitowania.");
             System.out.println("Update dla nauki commitowania i pushowania");
+            System.out.println("KONIEC");
         }
     }
 

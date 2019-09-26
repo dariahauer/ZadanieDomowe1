@@ -4,7 +4,8 @@
             System.out.println("sie");
             System.out.println("Programowania");
             System.out.println("i");
-            System.out.println("commitowania");
+            System.out.println("commitowania.");
+            System.out.println("Update dla nauki commitowania i pushowania");
         }
     }
 
